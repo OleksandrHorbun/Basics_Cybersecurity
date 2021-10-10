@@ -1,0 +1,16 @@
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\Homework_1_3.exe
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\Homework_1_3.deps.json
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\Homework_1_3.runtimeconfig.json
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\Homework_1_3.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\Homework_1_3.dll
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\ref\Homework_1_3.dll
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\bin\Debug\net5.0\Homework_1_3.pdb
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.dll
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\ref\Homework_1_3.dll
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.pdb
+C:\Users\Администратор\source\repos\Practice_1__Homework\Practice_1__Homework\obj\Debug\net5.0\Homework_1_3.genruntimeconfig.cache
