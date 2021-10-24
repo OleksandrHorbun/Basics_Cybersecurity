@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\bin\Debug\netcoreapp3.1\Homework_2__1.exe
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\bin\Debug\netcoreapp3.1\Homework_2__1.deps.json
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\bin\Debug\netcoreapp3.1\Homework_2__1.runtimeconfig.json
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\bin\Debug\netcoreapp3.1\Homework_2__1.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\bin\Debug\netcoreapp3.1\Homework_2__1.dll
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\bin\Debug\netcoreapp3.1\Homework_2__1.pdb
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.dll
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.pdb
+C:\Users\Администратор\source\repos\Practise_2__Homework\Practise_2__Homework\obj\Debug\netcoreapp3.1\Homework_2__1.genruntimeconfig.cache
