@@ -36,7 +36,7 @@ namespace Lab3_3
 
             Console.WriteLine("Sending message to receiver...");
 
-            string key2 = "4WCoW5Yn";
+            string key2 = "4WCoW5Y";
 
             var hashedKey2 = ComputeHashSHA256(Encoding.Unicode.GetBytes(key2));
 

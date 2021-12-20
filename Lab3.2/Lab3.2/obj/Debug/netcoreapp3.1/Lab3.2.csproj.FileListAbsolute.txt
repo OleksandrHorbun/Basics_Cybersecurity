@@ -24,3 +24,4 @@ C:\Users\Администратор\source\repos\Practice_3_4__Homework\Lab3.2\L
 C:\Users\Администратор\source\repos\Practice_3_4__Homework\Lab3.2\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.dll
 C:\Users\Администратор\source\repos\Practice_3_4__Homework\Lab3.2\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.pdb
 C:\Users\Администратор\source\repos\Practice_3_4__Homework\Lab3.2\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.genruntimeconfig.cache
+C:\Users\Администратор\source\repos\Practice_3_4__Homework\Lab3.2\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.csproj.AssemblyReference.cache
