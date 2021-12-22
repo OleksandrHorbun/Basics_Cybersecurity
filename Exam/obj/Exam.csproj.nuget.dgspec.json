@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artem\\source\\repos\\lab9\\lab9\\lab9.csproj": {}
+    "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\Exam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artem\\source\\repos\\lab9\\lab9\\lab9.csproj": {
+    "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artem\\source\\repos\\lab9\\lab9\\lab9.csproj",
-        "projectName": "lab9",
-        "projectPath": "C:\\Users\\artem\\source\\repos\\lab9\\lab9\\lab9.csproj",
-        "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artem\\source\\repos\\lab9\\lab9\\obj\\",
+        "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\Exam.csproj",
+        "projectName": "Exam",
+        "projectPath": "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\Exam.csproj",
+        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
