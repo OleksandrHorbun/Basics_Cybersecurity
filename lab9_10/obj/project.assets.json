@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\Exam.csproj",
-      "projectName": "Exam",
-      "projectPath": "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\Exam.csproj",
+      "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\Practice_9_10__Homework\\lab9_10\\lab9_10.csproj",
+      "projectName": "lab9_10",
+      "projectPath": "C:\\Users\\Администратор\\source\\repos\\Practice_9_10__Homework\\lab9_10\\lab9_10.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Администратор\\source\\repos\\Exam\\Exam\\obj\\",
+      "outputPath": "C:\\Users\\Администратор\\source\\repos\\Practice_9_10__Homework\\lab9_10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",

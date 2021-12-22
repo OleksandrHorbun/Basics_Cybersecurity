@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\bin\Debug\netcoreapp3.1\lab9_10.exe
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\bin\Debug\netcoreapp3.1\lab9_10.deps.json
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\bin\Debug\netcoreapp3.1\lab9_10.runtimeconfig.json
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\bin\Debug\netcoreapp3.1\lab9_10.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\bin\Debug\netcoreapp3.1\lab9_10.dll
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\bin\Debug\netcoreapp3.1\lab9_10.pdb
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.dll
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.pdb
+C:\Users\Администратор\source\repos\Practice_9_10__Homework\lab9_10\obj\Debug\netcoreapp3.1\lab9_10.genruntimeconfig.cache
