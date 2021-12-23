@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\Users\Администратор\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\Users\Администратор\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\Users\Администратор\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\Users\Администратор\source\repos\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\Администратор\source\repos\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
